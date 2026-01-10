@@ -1895,3 +1895,8 @@ sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate
 [2026-01-10 13:56:32,120] {logging_mixin.py:109} INFO - [2026-01-10 13:56:32,120] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
 [2026-01-10 13:56:32,136] {processor.py:625} WARNING - No viable dags retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
 [2026-01-10 13:56:32,246] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.174 seconds
+[2026-01-10 13:57:02,388] {processor.py:162} INFO - Started process (PID=3488) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2026-01-10 13:57:02,393] {processor.py:613} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2026-01-10 13:57:02,394] {logging_mixin.py:109} INFO - [2026-01-10 13:57:02,394] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2026-01-10 13:57:02,401] {processor.py:625} WARNING - No viable dags retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py
+[2026-01-10 13:57:02,461] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
