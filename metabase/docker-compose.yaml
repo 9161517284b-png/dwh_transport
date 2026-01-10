@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./metabase-data:/metabase-data
+      - /dev/urandom:/dev/random:ro
+    networks:
+      - metanet
+    healthcheck:
+      test: curl --fail -I http://localhost:3000/api/health || exit 1
+      interval: 15s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+networks:
+  metanet:
+    driver: bridge

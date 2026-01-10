@@ -1,0 +1,78 @@
+[2026-01-10 10:15:01,428] {processor.py:162} INFO - Started process (PID=41) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:01,431] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:15:01,432] {logging_mixin.py:109} INFO - [2026-01-10 10:15:01,432] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:01,566] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:20,951] {logging_mixin.py:109} INFO - [2026-01-10 10:15:20,949] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:15:21,061] {logging_mixin.py:109} INFO - [2026-01-10 10:15:21,040] {dag.py:1852} INFO - Creating ORM DAG for load_transport_data
+[2026-01-10 10:15:21,107] {logging_mixin.py:109} INFO - [2026-01-10 10:15:21,106] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:15:21,190] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 19.768 seconds
+[2026-01-10 10:15:51,652] {processor.py:162} INFO - Started process (PID=133) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:51,653] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:15:51,686] {logging_mixin.py:109} INFO - [2026-01-10 10:15:51,654] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:51,727] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:15:51,933] {logging_mixin.py:109} INFO - [2026-01-10 10:15:51,933] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:15:52,076] {logging_mixin.py:109} INFO - [2026-01-10 10:15:52,076] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:15:52,153] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.525 seconds
+[2026-01-10 10:16:22,677] {processor.py:162} INFO - Started process (PID=181) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:22,678] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:16:22,688] {logging_mixin.py:109} INFO - [2026-01-10 10:16:22,688] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:22,813] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:22,845] {logging_mixin.py:109} INFO - [2026-01-10 10:16:22,845] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:16:22,878] {logging_mixin.py:109} INFO - [2026-01-10 10:16:22,876] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:16:22,920] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.273 seconds
+[2026-01-10 10:16:53,722] {processor.py:162} INFO - Started process (PID=225) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:53,723] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:16:53,728] {logging_mixin.py:109} INFO - [2026-01-10 10:16:53,728] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:53,818] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:16:53,883] {logging_mixin.py:109} INFO - [2026-01-10 10:16:53,883] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:16:53,933] {logging_mixin.py:109} INFO - [2026-01-10 10:16:53,933] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:16:53,948] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.239 seconds
+[2026-01-10 10:17:24,313] {processor.py:162} INFO - Started process (PID=276) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:24,316] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:17:24,317] {logging_mixin.py:109} INFO - [2026-01-10 10:17:24,317] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:24,344] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:24,369] {logging_mixin.py:109} INFO - [2026-01-10 10:17:24,369] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:17:24,388] {logging_mixin.py:109} INFO - [2026-01-10 10:17:24,388] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:17:24,399] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.091 seconds
+[2026-01-10 10:17:55,394] {processor.py:162} INFO - Started process (PID=328) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:55,405] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:17:55,411] {logging_mixin.py:109} INFO - [2026-01-10 10:17:55,410] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:55,475] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:17:55,524] {logging_mixin.py:109} INFO - [2026-01-10 10:17:55,523] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:17:55,561] {logging_mixin.py:109} INFO - [2026-01-10 10:17:55,561] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:17:55,580] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.194 seconds
+[2026-01-10 10:18:25,845] {processor.py:162} INFO - Started process (PID=379) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:25,850] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:18:25,855] {logging_mixin.py:109} INFO - [2026-01-10 10:18:25,852] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:26,066] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:26,212] {logging_mixin.py:109} INFO - [2026-01-10 10:18:26,212] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:18:26,313] {logging_mixin.py:109} INFO - [2026-01-10 10:18:26,313] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:18:26,351] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.518 seconds
+[2026-01-10 10:18:56,467] {processor.py:162} INFO - Started process (PID=422) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:56,469] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:18:56,470] {logging_mixin.py:109} INFO - [2026-01-10 10:18:56,470] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:56,494] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:18:56,517] {logging_mixin.py:109} INFO - [2026-01-10 10:18:56,517] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:18:56,540] {logging_mixin.py:109} INFO - [2026-01-10 10:18:56,540] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:18:56,547] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.083 seconds
+[2026-01-10 10:19:26,821] {processor.py:162} INFO - Started process (PID=482) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:26,824] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:19:26,825] {logging_mixin.py:109} INFO - [2026-01-10 10:19:26,825] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:26,871] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:26,902] {logging_mixin.py:109} INFO - [2026-01-10 10:19:26,902] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:19:26,922] {logging_mixin.py:109} INFO - [2026-01-10 10:19:26,922] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:19:26,936] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.120 seconds
+[2026-01-10 10:19:57,433] {processor.py:162} INFO - Started process (PID=534) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:57,434] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:19:57,435] {logging_mixin.py:109} INFO - [2026-01-10 10:19:57,435] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:57,465] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:19:57,495] {logging_mixin.py:109} INFO - [2026-01-10 10:19:57,495] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:19:57,516] {logging_mixin.py:109} INFO - [2026-01-10 10:19:57,516] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:19:57,527] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.098 seconds
+[2026-01-10 10:20:28,065] {processor.py:162} INFO - Started process (PID=586) to work on /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:20:28,066] {processor.py:613} INFO - Processing file /opt/airflow/dags/load_transport_data.py for tasks to queue
+[2026-01-10 10:20:28,067] {logging_mixin.py:109} INFO - [2026-01-10 10:20:28,067] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:20:28,103] {processor.py:623} INFO - DAG(s) dict_keys(['load_transport_data']) retrieved from /opt/airflow/dags/load_transport_data.py
+[2026-01-10 10:20:28,137] {logging_mixin.py:109} INFO - [2026-01-10 10:20:28,137] {dag.py:1833} INFO - Sync 1 DAGs
+[2026-01-10 10:20:28,159] {logging_mixin.py:109} INFO - [2026-01-10 10:20:28,159] {dag.py:2306} INFO - Setting next_dagrun for load_transport_data to None
+[2026-01-10 10:20:28,170] {processor.py:170} INFO - Processing /opt/airflow/dags/load_transport_data.py took 0.110 seconds
